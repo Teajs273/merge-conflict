@@ -13,4 +13,9 @@ Initial Security()
 
 
 }
+<<<<<<< HEAD
 Feature1 changes
+=======
+Feature2 changes
+Security patch line
+>>>>>>> master
